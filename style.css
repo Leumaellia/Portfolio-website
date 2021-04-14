@@ -1,0 +1,46 @@
+header{
+  text-align: center;
+  padding: 75px;
+  background: #0A1128
+
+}
+h1{
+ font-size: 45px;
+ font-family: 'Carter One', cursive;
+ color: #59C3C3
+  }
+  h2{
+    font-size: 35px;
+    font-family: 'Carter One', cursive;
+    color:#0A1128
+  }
+  h3{
+     font-size: 35px;
+    font-family: 'Carter One', cursive;
+    color: #59C3C3
+  }
+  main{
+    text-align: center;
+    
+  }
+  hr.new1{
+    border: 3px solid #92B6B1;
+  }
+  body{
+    background: #92B6B1;
+  }
+  p{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    font-size: 17px;
+  }
+  ul , ol{
+    margin-left: 300px;
+    text-align: left;
+    list-style-position: inside;
+  }
+  .imageContainer {
+  float: left;
+  width: 620px;
+}
